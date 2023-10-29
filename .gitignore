@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+apache_credentials
+tokens.json
+state/
