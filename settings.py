@@ -1,1 +1,1 @@
-EXPIRATION_TIME = 6*60*60    # require re-authentication every 6 hours
+EXPIRATION_TIME = 30*24*60*60    # require re-authentication every 30 days
